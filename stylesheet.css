@@ -336,6 +336,14 @@ p.alignes {
     text-align: center;
 }
 
+img.logostechnos {
+    display: inline-block;
+    height: 2em;
+    width:13em;
+    margin: 0px 0px 0px 0px;
+    padding: none;
+}
+
 a.link {
     text-decoration : none;
     color:#cecece;
