@@ -144,6 +144,7 @@
     background-color: #fff;
     color: black;
     height: auto;
+    width: auto;
     overflow:hidden;
     margin-top: 0em;
     padding: 1em;
@@ -226,12 +227,34 @@ img {
     font-size: 0.8em;
 }
 
-#certificates {
+#certificate1 {
     font-size: 0.9em;
     margin-bottom: 0.2em;
 }
 
-#school {
+#certificate2 {
+    font-size: 0.9em;
+    margin-bottom: 0.2em;
+}
+
+#certificate3 {
+    font-size: 0.9em;
+    margin-bottom: 0.2em;
+}
+
+#school1 {
+    font-size: 0.8em;
+    color:slategrey;
+    margin-top: 0em;
+}
+
+#school2 {
+    font-size: 0.8em;
+    color:slategrey;
+    margin-top: 0em;
+}
+
+#school3 {
     font-size: 0.8em;
     color:slategrey;
     margin-top: 0em;
@@ -324,8 +347,21 @@ div.alignes {
 
 table {
     width: 100%;
+    table-layout: fixed;
     border: none;
     background-color: #fff;
+    }
+
+thead th:nth-child(1) {
+    width: 33%;
+    }
+      
+thead th:nth-child(2) {
+    width: 33%;
+    }
+      
+thead th:nth-child(3) {
+    width: 33%;
     }
 
 .no-border {
@@ -336,7 +372,7 @@ table {
 
 .table-title {
     background-color: #96c0ce;
-    opacity: 0.8;
+    opacity: 0.6;
     padding: 1em 1em 1em 1em;
 }
 
@@ -365,10 +401,10 @@ text-decoration:none;
     vertical-align:middle;
     background-color:darkgrey;
     opacity: 0.5;
-    color:dimgrey;
+    color:black;
     padding: 0em 1em 0em 1em;
     border-radius: 1em 1em 1em 1em;
-    text-decoration:none;
+    text-decoration:underline;
     }
 
 #size-logo-AP {
@@ -381,7 +417,7 @@ text-decoration:none;
     padding: none;
 }
 
-#size-logo-SG {
+.size-logo-SG {
     height: auto;
     width: 9.375em;
     padding: 1em 1em 0 0;
