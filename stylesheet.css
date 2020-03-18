@@ -23,7 +23,7 @@
     opacity: 0.8;
     text-decoration: none;
     color: #fff;
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 1em 1em;
     transition:0.3s;
     margin-top:0.7em;
     border:none;
@@ -335,7 +335,7 @@ img {
 p.alignes {
     display: inline-block;
     width: 24%;
-    margin: 0px 0px 0px 0px;
+    margin: none;
     text-align: center;
 }
 
@@ -343,7 +343,7 @@ img.logostechnos {
     display: inline-block;
     height: 2em;
     width:13em;
-    margin: 0px 0px 0px 0px;
+    margin: none;
     padding: none;
 }
 
