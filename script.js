@@ -1,4 +1,4 @@
-    alert("Bienvenue sur mon CV en ligne ! 🤓\n\nDéveloppé en HTML5, CSS3, JavaScript et jQuery, \nvia l'éditeur Visual Studio Code, et déployé sur GitHub. \n\nBonne lecture ! \nCyrielle");
+    alert("\nBienvenue sur mon CV en ligne ! 🤓\n\nLanguages : HTML5, CSS3, JavaScript, jQuery \nÉditeur : Visual Studio Code \nDéploiement : GitHub / Heroku \n\nBonne lecture ! \nCyrielle");
 
     $(document).ready(function(){ /*Infos*/
     
