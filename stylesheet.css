@@ -514,7 +514,7 @@ body {
         height: auto;
         width: 10em;
         position: absolute;
-        top: 13em;
+        top: 11em;
         right: 0em;
         border-radius: 2em 0em 0em 2em; 
     }
@@ -523,7 +523,6 @@ body {
         background-color:#fff;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         font-weight: lighter;
-        font-size: 0.7em;
     }
 
     .false-search-bar {
@@ -554,6 +553,59 @@ body {
         text-align: left;
         margin-bottom: 0em;
     }
+
+    .open3 { /*Technologies*/
+        display:block;
+        padding: 1.4em 1em 1em 1em;
+        background-color: cadetblue;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 0 0 1em 1em;
+        transition:0.5s;
+        margin-top:auto;
+        text-align: center;
+        font-size: 2em;
+    }
+
+    .open4 { /*Experiences*/
+        display:block;
+        padding: 1.4em 1em 1em 1em;
+        background-color: cadetblue;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 0 0 1em 1em;
+        transition:0.5s;
+        margin-top:auto;
+        text-align: center;
+        font-size: 2em;
+    }
+
+    .open5 { /*Qualities*/
+        display:block;
+        padding: 1.4em 1em 1em 1em;
+        background-color: cadetblue;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 0 0 1em 1em;
+        transition:0.5s;
+        margin-top:auto;
+        text-align: center;
+        font-size: 2em;
+    }
+
+    .open2 { /*Qualities*/
+        display:block;
+        padding: 1.4em 1em 1em 1em;
+        background-color: cadetblue;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 0 0 1em 1em;
+        transition:0.5s;
+        margin-top:auto;
+        text-align: center;
+        font-size: 2em;
+    }
+
 }
 
 @media screen and (max-width: 420px)
