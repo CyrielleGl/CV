@@ -554,6 +554,25 @@ body {
         margin-bottom: 0em;
     }
 
+    .open2 { /*Formations*/
+        display:block;
+        padding: 1.4em 1em 1em 1em;
+        background-color: cadetblue;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 0 0 1em 1em;
+        transition:0.5s;
+        margin-top:auto;
+        text-align: center;
+        font-size: 1.8em;
+    }
+
+    .open2:hover { /*Formations*/
+        background-color: #fff;
+        color: cadetblue;
+        font-size: 1.8em;
+    }
+
     .open3 { /*Technologies*/
         display:block;
         padding: 1.4em 1em 1em 1em;
@@ -564,6 +583,12 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
+        font-size: 1.8em;
+    }
+
+    .open3:hover { /*Technologies*/
+        background-color: #fff;
+        color: cadetblue;
         font-size: 1.8em;
     }
 
@@ -580,6 +605,12 @@ body {
         font-size: 1.8em;
     }
 
+    .open4:hover { /*Experiences*/
+        background-color: #fff;
+        color: cadetblue;
+        font-size: 1.8em;
+    }
+
     .open5 { /*Qualities*/
         display:block;
         padding: 1.4em 1em 1em 1em;
@@ -593,16 +624,9 @@ body {
         font-size: 1.8em;
     }
 
-    .open2 { /*Qualities*/
-        display:block;
-        padding: 1.4em 1em 1em 1em;
-        background-color: cadetblue;
-        text-decoration: none;
-        color: #fff;
-        border-radius: 0 0 1em 1em;
-        transition:0.5s;
-        margin-top:auto;
-        text-align: center;
+    .open5:hover { /*Qualities*/
+        background-color: #fff;
+        color: cadetblue;
         font-size: 1.8em;
     }
 
