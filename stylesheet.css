@@ -564,7 +564,7 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 1.8em;
     }
 
     .open4 { /*Experiences*/
@@ -577,7 +577,7 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 1.8em;
     }
 
     .open5 { /*Qualities*/
@@ -590,7 +590,7 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 1.8em;
     }
 
     .open2 { /*Qualities*/
@@ -603,7 +603,7 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 1.8em;
     }
 
 }
