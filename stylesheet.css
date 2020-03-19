@@ -514,7 +514,7 @@ body {
         height: auto;
         width: 10em;
         position: absolute;
-        top: 12em;
+        top: 11em;
         right: 0em;
         border-radius: 2em 0em 0em 2em; 
     }
@@ -557,7 +557,7 @@ body {
 
     #technoCV {
         font-weight: lighter;
-        font-size: 0.6em;
+        font-size: 0.8em;
         text-align: left;
         margin-bottom: 0em;
     }
@@ -567,7 +567,7 @@ body {
         padding: 0.8em 0 0 0;
         display:block;
         text-decoration: none;
-        font-size: 1.2em;
+        font-size: 1.3em;
     }
 
     .open { /*Infos*/
@@ -581,21 +581,21 @@ body {
         transition:0.3s;
         margin-top:0.7em;
         border:none;
-        font-size: 1.2em;
+        font-size: 1.3em;
     }
     
     .open:hover { /*Infos*/
         background-color:#fff;
         color: cadetblue;
         padding: none;
-        font-size: 1.2em;
+        font-size: 1.3em;
     }
 
     #education { /*Formations*/
         margin: 0 auto; width: auto; margin-top: auto;
         display:block;
         text-decoration: none;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open2 { /*Formations*/
@@ -608,20 +608,20 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open2:hover { /*Formations*/
         background-color: #fff;
         color: cadetblue;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     #technologies { /*Technologies*/
         margin: 0 auto; width: auto; margin-top: auto;
         display:block;
         text-decoration: none;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open3 { /*Technologies*/
@@ -634,20 +634,20 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open3:hover { /*Technologies*/
         background-color: #fff;
         color: cadetblue;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     #experiences { /*Experiences*/
         margin: 0 auto; width: auto; margin-top: auto;
         display:block;
         text-decoration: none;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open4 { /*Experiences*/
@@ -660,20 +660,20 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open4:hover { /*Experiences*/
         background-color: #fff;
         color: cadetblue;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     #qualities { /*Qualities*/
         margin: 0 auto; width: auto; margin-top: auto;
         display:block;
         text-decoration: none;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open5 { /*Qualities*/
@@ -686,13 +686,13 @@ body {
         transition:0.5s;
         margin-top:auto;
         text-align: center;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
     .open5:hover { /*Qualities*/
         background-color: #fff;
         color: cadetblue;
-        font-size: 2em;
+        font-size: 2.3em;
     }
 
 }
